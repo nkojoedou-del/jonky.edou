@@ -4,3 +4,8 @@ description: "Cybersecurity Cloud Data"
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: en
+tagline: "Secure by design — defence, tooling, research"
+author:
+	name: "Job Edouard Nkoyok"
+	email: ""
+email: ""

@@ -4,8 +4,10 @@ description: "Cybersecurity Cloud Data"
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: en
+url: "https://www.yourcustomdomain.com"
+baseurl: ""
 tagline: "Secure by design — defence, tooling, research"
 author:
 	name: "Job Edouard Nkoyok"
-	email: ""
-email: ""
+	email: "nkojoedou@gmail.com"
+email: "nkojoedou@gmail.com"
